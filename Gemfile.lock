@@ -310,7 +310,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll
   jekyll-theme-so-simple
 
 BUNDLED WITH
