@@ -32,6 +32,7 @@ This application helps users efficiently manage their email communications by au
 ### Agentic RAG Pipeline
 
 ![5431728749857_ pic](https://github.com/user-attachments/assets/e43b283c-e312-443a-8c59-923ed20672ad)
+[cheese pizza](/images/bio-photo-2.jpg)
 
 ## Demo
 ![9121728846416_ pic](https://github.com/user-attachments/assets/d3d1b6d0-51f4-4da8-bb93-9285e4211976)
