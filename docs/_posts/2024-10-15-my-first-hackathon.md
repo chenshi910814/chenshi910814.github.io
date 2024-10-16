@@ -3,7 +3,9 @@ title: "My first Hackathon Experience"
 date: 2024-10-15
 ---
 
-The past weekend, 
+This past weekend, I had the opportunity to participate in the Rag-a-thon held in Palo Alto, where I collaborated with two talented teammates to build a Minimum Viable Product (MVP) in just 48 hours. The challenge of turning an idea into a functional solution under tight time constraints was both exhilarating and rewarding. We leveraged our collective skills to rapidly prototype and solve real-world problems, showcasing our ability to innovate and work efficiently as a team.
+
+The experience reinforced the importance of collaboration, time management, and adaptability in fast-paced environments. I walked away from the event with new insights, stronger technical skills, and an enhanced appreciation for hackathons as an avenue for creative problem-solving.
 
 # Email Copilot
 
